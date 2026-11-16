@@ -1,3 +1,15 @@
-<?php
-    echo "Hello World";
-?>
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "BIODATA DIRI" << endl;
+    cout << "================" << endl;
+    cout << "NAMA : KAKA" << endl;
+    cout << "ALAMAT : KP. KEBON KALAPA" << endl;
+    cout << "KOTA : KAB BANDUNG" << endl;
+    cout << "KODE POS : 40395" << endl;
+    cout << "TELEPON : 081234567890" << endl;
+    
+    return 0;
+}
